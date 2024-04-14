@@ -1,4 +1,4 @@
-# Extra point rule was instituted before the 2015-2016 season. 2015-2023 will look at extra points after the rule. 2006-2014 will look at extra points before the rule
+# The Extra point rule was instituted before the 2015-2016 season. 2015-2023 will look at extra points after the rule. 2006-2014 will look at extra points before the rule
 
 # Loading in the data
 n2023 <- load_pbp(2023)
