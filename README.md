@@ -7,3 +7,6 @@ Basic details: Looked at 9-year samples before and after the rule (2015-2023 and
 </br>
 </br>
 The matching pair analysis identifies wind, score differential, and stadium as potential confounding variables. There was an issue with too many NAs when accounting for stuff like temperature, but the stadium variable takes that into account. I decided to conduct a two-sample t-test to determine statistical significance. The P value was way under zero, and the null hypothesis was rejected.
+</br>
+</br>
+The analysis includes examining the extra-point and two-point conversion probabilities on a team-by-team basis to determine whether teams would be better off going for two. Additionally, a game theory is applied to this conclusion. Under the current extra-point distance, teams would be better off going for two. A Monte Carlo simulation was run to determine the proper extra-point distance.
