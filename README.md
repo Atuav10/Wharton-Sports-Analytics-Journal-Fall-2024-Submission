@@ -1,6 +1,6 @@
 # To Go for Two or Not to Go for Two? A Statistical Analysis of the Biggest Prisoner’s Dilemma in the National Football League
 Wharton Sports Analytics Journal Fall 2024 Submission
-# Description
+## Description
 The first R script is a matching pair analysis + statistical significance test of extra point percentage before and after the extra point distance was moved back.
 </br>
 </br>
